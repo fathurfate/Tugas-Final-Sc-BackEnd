@@ -79,9 +79,9 @@ Menambahkan tugas baru.
 
 ```json
 {
-  "judul": "Belajar Express",
+  "judul": "Belajar BackEnd",
   "status": "belum",
-  "deadline": "2025-12-01"
+  
 }
 ```
 
