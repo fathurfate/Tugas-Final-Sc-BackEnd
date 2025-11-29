@@ -1,8 +1,5 @@
-# Tugas-Final-Sc-BackEnd
-
-# Tugas-Final-Sc-BackEnd
-# Tugas API – Simple CRUD dengan Express.js
-
+# Tugas Final BackEnd API – CRUD dengan Express.js
+By Fathur Fajar Ramadhan
 Proyek ini adalah API sederhana untuk mengelola data tugas. Dibangun menggunakan **Node.js** dan **Express**, dengan arsitektur **Routes → Controller → Services** agar kode lebih terstruktur dan mudah dikembangkan.
 
 ---
