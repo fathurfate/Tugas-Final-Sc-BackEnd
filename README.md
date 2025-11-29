@@ -1,6 +1,6 @@
 # Tugas Final BackEnd API – CRUD dengan Express.js
 By Fathur Fajar Ramadhan
-Proyek ini adalah API sederhana untuk mengelola data tugas. Dibangun menggunakan **Node.js** dan **Express**, dengan arsitektur **Routes → Controller → Services** agar kode lebih terstruktur dan mudah dikembangkan.
+Proyek ini adalah API data tugas bagi orang pemalas, atau kita sebut Litulas (List tugas untuk Pemalas). Dibangun menggunakan **Node.js** dan **Express**, dengan arsitektur **Routes → Controller → Services** agar kode lebih terstruktur dan mudah dikembangkan.
 
 ---
 
@@ -144,6 +144,3 @@ project/
 * **Routes** – mendefinisikan endpoint
 * **Controller** – menangani request & response
 * **Services** – berisi logika CRUD utama
-
-Struktur ini membantu proyek tetap rapi dan mudah dikembangkan di masa depan.
-
